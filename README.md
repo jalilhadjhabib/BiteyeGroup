@@ -1,4 +1,4 @@
-# Software Sales Management System Internship - CESI EXIA 5th Year
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/ec4537bc-fe00-419d-8820-6c9dd3a05c41)# Software Sales Management System Internship - CESI EXIA 5th Year
 
 This GitHub repository showcases the work completed during my fifth year internship at CESI EXIA School as part of the Projet de Fin d'Études (Final Year Project) focused on developing a software sales management system for Biteye Group, a software development company specializing in solutions for real estate businesses.
 
@@ -22,3 +22,15 @@ This internship was a rewarding and challenging experience that allowed me to ap
 Throughout this internship, I gained valuable insights into software development for real-world business applications and enhanced my proficiency in modern technologies. The sales management system developed during this project exemplifies my capabilities in web development and showcases the potential impact of technology on businesses in the real estate sector.
 
 Please note that this repository will remain empty as the actual codebase cannot be disclosed due to confidentiality agreements with Biteye Group. For any inquiries or further details, feel free to contact me directly.
+
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/94194e5f-f774-499b-83ab-b069f003ba4a)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/0309f94d-6b3a-4f3d-ad06-e843e54cdd69)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/4924eb2e-bfbf-406a-a9d7-7989ef0e9444)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/cb97bab7-4485-4312-a820-104f4aa06bb1)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/37ea35a6-9e93-4548-92f7-b7e9a0c4fb2f)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/d0c794de-6105-4b53-b6c0-63cf854cbbef)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/9186a76b-3f34-4359-9243-3bd2c1b265f9)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/eef1e534-14b0-40d9-85cc-7eb3135287fb)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/ab7f62a1-0120-4033-9bbc-15a0e95159d9)
+![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/5938d167-68b7-4532-b5bf-a2ea89ebf961)
+
