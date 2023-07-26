@@ -1,4 +1,4 @@
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/ec4537bc-fe00-419d-8820-6c9dd3a05c41)# Software Sales Management System Internship - CESI EXIA 5th Year
+# Software Sales Management System Internship - CESI EXIA 5th Year
 
 This GitHub repository showcases the work completed during my fifth year internship at CESI EXIA School as part of the Projet de Fin d'Études (Final Year Project) focused on developing a software sales management system for Biteye Group, a software development company specializing in solutions for real estate businesses.
 
