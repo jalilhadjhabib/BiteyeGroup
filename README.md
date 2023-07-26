@@ -6,7 +6,7 @@ This GitHub repository showcases the work completed during my fifth year interns
 As part of my fifth-year internship at CESI EXIA, I had the opportunity to work with Biteye Group, a prominent software development company in the real estate industry. The company faced daily challenges in managing sales leads and required an efficient and intuitive solution to enhance the effectiveness of their sales agents and maximize sales of their VISION software. The internship aimed to address these challenges by developing a sales management system.
 
 ## Repository Content
-This GitHub repository serves as a placeholder for the software sales management system project developed during my internship at Biteye Group. Due to confidentiality and non-disclosure agreements with the company, the actual codebase cannot be publicly shared on this repository. However, it includes the project documentation, reports, and other non-sensitive materials related to the development process.
+This GitHub repository serves as a placeholder for the software sales management system project developed during my internship at Biteye Group. Due to confidentiality and non-disclosure agreements with the company, the actual codebase cannot be publicly shared on this repository.
 
 ## Team Members
 - **Intern**: Abdel Djalil Hadj Habib, responsible for the design, development, and coordination of the project.
