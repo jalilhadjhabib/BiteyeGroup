@@ -23,14 +23,35 @@ Throughout this internship, I gained valuable insights into software development
 
 Please note that this repository will remain empty as the actual codebase cannot be disclosed due to confidentiality agreements with Biteye Group. For any inquiries or further details, feel free to contact me directly.
 
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/94194e5f-f774-499b-83ab-b069f003ba4a)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/0309f94d-6b3a-4f3d-ad06-e843e54cdd69)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/4924eb2e-bfbf-406a-a9d7-7989ef0e9444)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/cb97bab7-4485-4312-a820-104f4aa06bb1)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/37ea35a6-9e93-4548-92f7-b7e9a0c4fb2f)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/d0c794de-6105-4b53-b6c0-63cf854cbbef)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/9186a76b-3f34-4359-9243-3bd2c1b265f9)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/eef1e534-14b0-40d9-85cc-7eb3135287fb)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/ab7f62a1-0120-4033-9bbc-15a0e95159d9)
-![image](https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/5938d167-68b7-4532-b5bf-a2ea89ebf961)
+<img width="1450" height="833" alt="home" src="https://github.com/user-attachments/assets/408226aa-6dde-4fd3-80c9-4274824b1d83" />
+<br/><br/>
+
+<img width="1450" height="833" alt="login" src="https://github.com/user-attachments/assets/fca95c76-6a16-49c6-8289-0b598794c56d" />
+<br/><br/>
+
+<img width="1450" height="833" alt="register" src="https://github.com/user-attachments/assets/f1b5f349-35d2-4229-8a8f-e847be223da4" />
+<br/><br/>
+
+<img alt="image-1" src="https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/4924eb2e-bfbf-406a-a9d7-7989ef0e9444" />
+<br/><br/>
+
+<img alt="image-2" src="https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/cb97bab7-4485-4312-a820-104f4aa06bb1" />
+<br/><br/>
+
+<img alt="image-3" src="https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/37ea35a6-9e93-4548-92f7-b7e9a0c4fb2f" />
+<br/><br/>
+
+<img alt="image-4" src="https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/d0c794de-6105-4b53-b6c0-63cf854cbbef" />
+<br/><br/>
+
+<p align="center">
+  <img width="420" height="854" alt="mobile-home" src="https://github.com/user-attachments/assets/0e2b9571-b6a0-4f56-9f54-d57b77d6cff7" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="420" height="854" alt="mobile-login" src="https://github.com/user-attachments/assets/d4029400-d61c-4263-8c20-d994440d9169" />
+</p>
+<br/>
+
+<p align="center">
+  <img width="420" height="854" alt="image-5" src="https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/ab7f62a1-0120-4033-9bbc-15a0e95159d9" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="420" height="854" alt="image-6" src="https://github.com/jalilhadjhabib/Biteye-Intership/assets/101253359/5938d167-68b7-4532-b5bf-a2ea89ebf961" />
+</p>
 
